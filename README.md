@@ -1,2 +1,2 @@
 # testPipeline
-test de pipeline CICD sur mini projet C/C++
+test de pipeline CI/CD sur mini projet C/C++
